@@ -39,9 +39,9 @@ Server mặc định chạy tại: http://localhost:3000
 
   * Thông báo: `Register successful, you can login now`
   * MongoDB collection `users` có thêm user mới
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/8caa9144-c95a-425e-994a-18c7550c79d4" />
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/bd49b26a-871c-438a-9676-faa569277b92" />
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/59da5704-bfd9-43e9-a53e-7fa58d6fa291" />
+![1](public/results/1.png)
+![2](public/results/2.png)
+![3](public/results/3.png)
 
 ---
 
@@ -53,7 +53,7 @@ Server mặc định chạy tại: http://localhost:3000
 
   * Nếu đúng: chuyển đến `/profile`
   * Nếu sai: hiện thông báo lỗi `Wrong password` hoặc `User not found`
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/3cc7ae09-04ed-417a-8724-0b199aec8a7f" />
+![4](public/results/4.png)
 
 ---
 
@@ -64,7 +64,7 @@ Server mặc định chạy tại: http://localhost:3000
 * **Kết quả mong đợi**:
 
   * Hiển thị: `Welcome, <username>!`
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/afbecbae-76c0-4053-8f86-12bbf2b55181" />
+![5](public/results/5.png)
 
 ---
 
@@ -75,7 +75,7 @@ Server mặc định chạy tại: http://localhost:3000
 * **Kết quả mong đợi**:
   * Trở về trang `/login`
   * Cookie bị xóa khỏi trình duyệt
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/a84b59be-888a-4341-be58-ba1e8dcd9a95" />
+![6](public/results/6.png)
 
 ---
 
@@ -113,6 +113,4 @@ local_passport_website/
 * **Logout**: xóa session và cookie, quay lại trang login
 
 ---
-
-👉 Bạn có muốn mình làm luôn phần **đẩy yêu cầu 4 này lên GitHub** (giống cách đã làm cho yêu cầu 3) kèm theo thư mục `public/results` để nộp luôn không?
 
